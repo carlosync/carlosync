@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/carlosync/carlosync/output/snake.svg" alt="Snake animation" />
-
-###
