@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi There! Meu nome é Carlos Aurélio, e sou um desenvolvedor júnior apaixonado por tecnologia. Tenho experiência com Java e estou sempre buscando aprender novas tecnologias para expandir meu conhecimento.</p>
+<p align="left">Hi There! Meu nome é Carlos Aurélio, e sou um desenvolvedor júnior apaixonado por tecnologia. Tenho experiência com Java e estou sempre buscando aprender novas tecnologias para expandir meus conhecimentos.</p>
 
 ###
 
